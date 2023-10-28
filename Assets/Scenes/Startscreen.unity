@@ -304,7 +304,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.000015259, y: 216}
+  m_AnchoredPosition: {x: 26, y: 210}
   m_SizeDelta: {x: 786.1442, y: 135.1977}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &848842662
@@ -801,7 +801,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -100, y: 112}
+  m_AnchoredPosition: {x: -100, y: 124}
   m_SizeDelta: {x: 200, y: 118.9684}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1820211725
@@ -833,7 +833,8 @@ MonoBehaviour:
 
     Let''s find out! Try and beat all four levels
 
-'
+    Sound
+    effects help'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 067e8dac636923642b631db9f232006e, type: 2}
   m_sharedMaterial: {fileID: 4314828466251909509, guid: 067e8dac636923642b631db9f232006e, type: 2}
@@ -860,8 +861,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 55
-  m_fontSizeBase: 55
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
